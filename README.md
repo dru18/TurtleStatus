@@ -1,6 +1,6 @@
 # TurtleStatus
 
-![turtlestatus.png](https://github.com/dru18/blog/master/screenshots/turtlestatus.png)
+![turtlestatus.png](https://github.com/dru18/TurtleStatus/blog/master/screenshots/turtlestatus.png)
 
 There are two versions of this script. One is **bash script** and other is **python script.** Both gives the same result. Install anyone you want. Bash script is in **Bash** directory and python script is placed inside Python directory respectevely.
 
