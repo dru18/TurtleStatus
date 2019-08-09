@@ -27,4 +27,4 @@ Hit enter or 'y' for 'Yes' to install the dependencies.
 
 > To stop the script hit 'ctrl+c' as interpter.
 
-# Good Luck. :+1: :turtle:
+# Good Luck. :turtle:

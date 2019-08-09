@@ -29,4 +29,4 @@ There are two versions of this script. One is **bash script** and other is **pyt
 
 > All instructions are placed inside the derectories corresponding to the script versions.
 
-# Have fun. :+1: :turtle:
+# Have fun. :turtle:
