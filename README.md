@@ -21,11 +21,11 @@ There are two versions of this script. One is **bash script** and other is **pyt
 
 - Enter one of the directories, either **Bash** or **Python**.
 
-  `cd Bash`
+	`cd Bash`
 
  or
 
-  `cd Python`
+	`cd Python`
 
 > All instructions are placed inside the derectories corresponding to the script versions.
 
