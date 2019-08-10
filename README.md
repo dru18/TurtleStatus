@@ -30,4 +30,10 @@ There are two versions of this script. One is **bash script** and other is **pyt
 
 > All instructions are placed inside the derectories corresponding to the script versions.
 
+- Run the *uninstall.sh* file to uninstall the script and it's dependencies.
+
+  `sudo bash uninstall.sh`
+
+> Hit **enter** or **y** for 'Yes' if it asks you to continue to uninstall dependencies.
+
 # Have fun. :turtle:
