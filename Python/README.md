@@ -2,8 +2,8 @@
 
 > You will need to have some additional packages to be installed on your system to use this script. This script will install them for you. These dependency packages are,
 
-- cowsay
-- toilet
+**cowsay**
+**toilet**
 
 - Clone the repository
 
